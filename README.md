@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ahmetmelihcalis/ahmetmelihcalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ahmet Melih Çalış
 
-Here are some ideas to get you started:
+**Associate Software Engineer @ SteelOrbis**  
+**Software Engineering Student @ Kocaeli University**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`AI` &nbsp; `Machine Learning` &nbsp; `Data Science`
+
+<br>
+
+<a href="https://melihcalis.dev">melihcalis.dev</a>
+&nbsp;·&nbsp;
+<a href="mailto:a.melihcalis@gmail.com">Email</a>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/ahmetmelihcalis/ahmetmelihcalis/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</div>
